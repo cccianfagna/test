@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -60.9433,
+    "lat": -34.5838
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 299.32,
+    "feels_like": 299.32,
+    "temp_min": 299.32,
+    "temp_max": 299.32,
+    "pressure": 1009,
+    "humidity": 40,
+    "sea_level": 1009,
+    "grnd_level": 999
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.45,
+    "deg": 135,
+    "gust": 9.26
+  },
+  "clouds": {
+    "all": 6
+  },
+  "dt": 1645388213,
+  "sys": {
+    "country": "AR",
+    "sunrise": 1645350184,
+    "sunset": 1645397536
+  },
+  "timezone": -10800,
+  "id": 3853354,
+  "name": "Junín",
+  "cod": 200
+}
